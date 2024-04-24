@@ -8,3 +8,4 @@ Java Hello World web application created using maven-archetype-webapp
 * maven
 * tomcat
 * Java..
+* test
